@@ -1,41 +1,41 @@
-�Ƽ��㷨������ʵ����
+推荐算法理论与实践：
 https://www.imooc.com/learn/990
 
-numpyʹ�����ţ�
+numpy使用入门：
 https://www.imooc.com/learn/943
 
-pandas��ʹ�ý̳̣�
+pandas简单使用教程：
 https://v.youku.com/v_show/id_XMzU0ODkwOTg2NA==.html
 
-github��ʹ�ý̳̣�
+github简单使用教程：
 https://v.youku.com/v_show/id_XMzMwNzcwODE0OA==.html
 
-1. ʹ��KNN��ϲ����Ƿ��а����ף�
+1. 使用KNN诊断病人是否患有膀胱炎：
 https://v.youku.com/v_show/id_XMzU1MTk0NzE2NA==.html
 
-2. ʹ�����ر�Ҷ˹Ԥ�Ⱬ������䣺
+2. 使用朴素贝叶斯预测鲍鱼的年龄：
 https://v.youku.com/v_show/id_XMzU1NTEzMTgxNg==.html
 
-3. ʹ���߼��ع�Ԥ����н��
+3. 使用逻辑回归预测年薪：
 https://v.youku.com/v_show/id_XMzU1NTE2NzIwMA==.html
 
-4. ʹ�þ������Բ������з��ࣺ
+4. 使用决策树对玻璃进行分类：
 https://v.youku.com/v_show/id_XMzU1NjM4NjI3Ng==.html
 
-5. ʹ��֧��������ʶ�������վ��
+5. 使用支持向量机识别钓鱼网站：
 https://v.youku.com/v_show/id_XMzU2MTAxMTI5Mg==.html
 
-6. ʹ��adaboost��ϲ����Ƿ��иβ���
+6. 使用adaboost诊断病人是否患有肝病：
 https://v.youku.com/v_show/id_XMzU2MTAxNTc4NA==.html
 
-7. ʹ�����ɭ��Ԥ��Ů�˱��д�ʩ��
+7. 使用随机森林预测女人避孕措施：
 https://v.youku.com/v_show/id_XMzU2MzQ5NDgwNA==.html
 
-8.1 ������ԭ���򵥽��ܣ�
+8.1 神经网络原理简单介绍：
 https://v.youku.com/v_show/id_XMzU3ODIzMDQ4OA==.html
 
-8.2 Tensorflow�򵥽̳̣�
+8.2 Tensorflow简单教程：
 https://v.youku.com/v_show/id_XMzU3ODIzMTYwNA==.html
 
-8.3 ʹ����������������״̬��
+8.3 使用神经网络评估车辆状态：
 https://v.youku.com/v_show/id_XMzU3ODIzNTQzMg==.html
