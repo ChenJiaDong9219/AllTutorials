@@ -1,5 +1,8 @@
 参考链接：
 https://stackoverflow.com/questions/17469835/why-does-one-hot-encoding-improve-machine-learning-performance
+https://machinelearningmastery.com/why-one-hot-encode-data-in-machine-learning/
 
 总结：
 不管是特征还是目标变量，如果它们是categorical类型的变量，那么就要进行 onehot 编码，如果仅仅将它们进行数值编码，这样的数值编码对于信息表示有偏差。就比如说，我们的数据集现在只有这样一个特征，叫做国籍，它有3个值，分别是英国、法国、美国。现在将它们编码为0,1,2。英国与法国之间的距离是1，英国与美国之间的距离是2，这样是不合理的，它们之间的距离应该是等价的。而使用 onehot 编码就没有这样的问题。
+
+但是有些算法是可以直接使用这样的编码信息的，例如决策树和其他的一些基于决策树的算法。
