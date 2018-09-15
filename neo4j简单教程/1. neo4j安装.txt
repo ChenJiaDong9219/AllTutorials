@@ -1,0 +1,7 @@
+windows 平台安装：
+1. 上 neo4j 官网下载，选择 community 版本的 server 即可。
+2. 下载完成之后，解压缩。假设我们将 neo4j 解压到 f 盘。
+3. 添加环境变量 NEO4J_HOME，它的值是 neo4j 的解压路径，在这里也就是 f:\neo4j\。
+4. 打开 cmd 操作界面，切换到 neo4j 的安装目录，输入 \bin\neo4j console，这样就可以打开 neo4j 的服务了，然后对 neo4j 进行操作。控制台会显示访问 neo4j 管理界面的 IP地址，默认是 http://localhost:7474，登录即可。登录的默认用户名和密码都是 neo4j，登陆成功之后会要求你修改密码。
+
+到这里为止，neo4j 就安装完成，可以使用了！
