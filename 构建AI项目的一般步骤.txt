@@ -1,0 +1,6 @@
+明确需求
+数据收集
+数据准备
+选择和构建模型（GBDT，lightGBM，xgboost，LSTM，各种模型）
+训练模型，评估模型（accuracy、precision）
+应用模型
